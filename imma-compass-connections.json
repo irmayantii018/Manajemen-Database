@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6cf6f8b4-7461-4b33-84f8-5ccd56dcd433",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1747232826601"
+        }
+      },
+      "favorite": {
+        "name": "irma_D0222018"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
